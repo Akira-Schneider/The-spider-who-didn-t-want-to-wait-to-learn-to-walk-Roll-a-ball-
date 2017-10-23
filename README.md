@@ -3,7 +3,7 @@ overview:
 This small green spider really wanted to know how to walk and didn't want to wait to learn so off he rolls. Using the Unity engine showing possibilities of what people can do with even the most simplistic game (For example the one I used was roll a ball) and make it have it's own unique look to it.
  This was made by a random guy named Akira J. Schneider 
 ------------------------------------------------------------------------------------------------------------------------------------------
-PLEASE NOTE:
+                                         PLEASE NOTE:
 
 I give permission to use or copy this file and do what ever you please with it as long as You credit the orignal maker (Akira J. Schneider) and the orignal contributors (the 2k innovation lab team)
 ------------------------------------------------------------------------------------------------------------------------------------------
