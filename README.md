@@ -21,3 +21,6 @@ Known bugs: when respawning after dying the character may spawn lower than the o
 
 If any bugs show up, please contact me at akiraschneiderbugfixes
 I would like to thank the innovation lab team with partnership with 2k games 
+
+here is the link to the game:
+https://drive.google.com/open?id=0BzWZp0vvGzGjQ2FZSnhCMnNCNVU
